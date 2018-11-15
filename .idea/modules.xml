@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign-hystrix/eureka-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-simple/hystrix-simple.iml" filepath="$PROJECT_DIR$/hystrix-simple/hystrix-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-simple/hystrix-simple.iml" filepath="$PROJECT_DIR$/hystrix-simple/hystrix-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
     </modules>
   </component>
 </project>
